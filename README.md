@@ -8,3 +8,6 @@
 3. Run previous exercise with Adam optimizer, command: python template/RunMe.py --dataset-folder toy_datasets/CIFAR10 --seed42 --ignoregit --no-cuda --optimizer-name Adam. Resulting Accuracy: 60.45 %
 
 4. Run previous exercise with Adam optimizer, command: python template/RunMe.py --dataset-folder toy_datasets/CIFAR10 --seed42 --ignoregit --no-cuda --optimizer-name Adam --model-name CNN_basic_copy. Resulting Accuracy: 52.94 %
+
+#Exercise 3: t-SNE vs. PCA
+In this exercise a basic CNN model has been trained for 10 epochs on the MNIST dataset. Then PCA and t-SNE have been applied to visualize what the network has learned
