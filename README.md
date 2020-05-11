@@ -12,7 +12,7 @@
 # Exercise 3: t-SNE vs. PCA
 In this exercise a basic CNN model has been trained for 10 epochs on the MNIST dataset. Then PCA and t-SNE have been applied to visualize what the network has learned
 
-#Exercise 4: char - RNN
+# Exercise 4: char - RNN
 Output “2 b3n”: 
 2 b3ne is not that your divising the proceed:
 I' the wear be these, I know preceded speed:
